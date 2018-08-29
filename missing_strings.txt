@@ -1,0 +1,2 @@
+PasswordRegisterViewController.TermsAndConditions.Placeholder = Terms and Conditions
+VisitorAccountViewController.Welcome.Title = Are you ready to explore amazing\nSpaceti features?
